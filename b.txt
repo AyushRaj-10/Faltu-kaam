@@ -1,1 +1,1 @@
-Het, This is the b.txt file for github
+Hey, This is the b.txt file for github
